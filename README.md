@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there i'm Alex👋
 
 <!--
 **Freeman-from482/Freeman-from482** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
