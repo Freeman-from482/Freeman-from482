@@ -1,4 +1,5 @@
 ### Hi there i'm Alex👋
+I am an Junior Python Developer with experience in transitioning between different roles and industries.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/freeman-from482/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-181717.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a>
@@ -34,10 +35,10 @@ Waiting...
 
 ## About me:
 
-- 🔭 I'm currently working for myself now.
+- 🔭 I'm an Junior Python Developer with experience in transitioning between different roles and industries.
 - 🌱 I'm currently learning Python and its features.
 - 👯 I'm looking for interesting prospective projects.
 - 🤔 I'm looking for a data analytics mentor.
 - 💬 Ask me about active sales and business intelligence.
-- ⚡ Curiosity: Backend, data analysis, artificial intelligence, computer vision.
+- ⚡ Curiosity: Backend, data analysis, artificial intelligence, computer vision, and automation of routine processes.
 -->
