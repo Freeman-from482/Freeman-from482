@@ -5,6 +5,7 @@
   <a href="https://www.codewars.com/users/Freeman-from482" target="_blank"><img alt="Codewars" src="https://img.shields.io/badge/Codewars-181717.svg?&style=flat-square&logo=codewars&logoColor=white" /></a>
     <a href="https://leetcode.com/Freeman_from482/" target="_blank"><img alt="leetCode" src="https://img.shields.io/badge/leetCode-181717.svg?&style=flat-square&logo=leetCode&logoColor=white" /></a>
     <a href="https://www.udemy.com/user/aleksandr-kovalchuk-122/" target="_blank"><img alt="Udemy" src="https://img.shields.io/badge/Udemy-181717.svg?&style=flat-square&logo=Udemy&logoColor=white" /></a>
+    <a href="https://www.reddit.com/user/Freeman_Alex/" target="_blank"><img alt="reddit" src="https://img.shields.io/badge/reddit-181717.svg?&style=flat-square&logo=reddit&logoColor=white" /></a>
 </p>  
 
 ---
