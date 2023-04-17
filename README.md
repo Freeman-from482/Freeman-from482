@@ -2,6 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/freeman-from482/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-181717.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.codewars.com/users/Freeman-from482" target="_blank"><img alt="Codewars" src="https://img.shields.io/badge/Codewars-181717.svg?&style=flat-square&logo=codewars&logoColor=white" /></a>
 </p>  
 
 ---
