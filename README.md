@@ -2,7 +2,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/freeman-from482/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-181717.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://t.me/freemanfrom482" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-181717.svg?&style=flat-square&logo=telegram&logoColor=white" /></a>
 </p>  
 
 ---
