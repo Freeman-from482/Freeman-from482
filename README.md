@@ -25,7 +25,7 @@
  ## Things I code with (know well or I am studying):
 <p>
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/PYTHON-14354C.svg?&style=flat-square&logo=python&logoColor=white" /></a>
-<a href="#"><img alt="GIT" src="https://img.shields.io/badge/-GIT-F05032?style=flat-square&logo=git&logoColor=white" /></a>
+<a href="#"><img alt="django" src="https://img.shields.io/badge/-django-F05032?style=flat-square&logo=django&logoColor=white" /></a>
 <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GITHUB-121011.svg?&style=flat-square&logo=github&logoColor=white" /></a>
 <a href="#"><img alt="MARKDOWN" src="https://img.shields.io/badge/MARKDOWN-000000.svg?&style=flat-square&logo=markdown&logoColor=white" /></a>
 </p>
