@@ -2,9 +2,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/freeman-from482/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-181717.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a>
-    <a href="https://www.udemy.com/user/aleksandr-kovalchuk-122/" target="_blank"><img alt="Udemy" src="https://img.shields.io/badge/Udemy-181717.svg?&style=flat-square&logo=Udemy&logoColor=white" /></a>
   <a href="https://www.codewars.com/users/Freeman-from482" target="_blank"><img alt="Codewars" src="https://img.shields.io/badge/Codewars-181717.svg?&style=flat-square&logo=codewars&logoColor=white" /></a>
     <a href="https://leetcode.com/Freeman_from482/" target="_blank"><img alt="leetCode" src="https://img.shields.io/badge/leetCode-181717.svg?&style=flat-square&logo=leetCode&logoColor=white" /></a>
+    <a href="https://www.udemy.com/user/aleksandr-kovalchuk-122/" target="_blank"><img alt="Udemy" src="https://img.shields.io/badge/Udemy-181717.svg?&style=flat-square&logo=Udemy&logoColor=white" /></a>
 </p>  
 
 ---
