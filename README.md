@@ -34,7 +34,8 @@ Waiting...
 
 ## About me:
 
-- 🔭 I'm an Junior Python Developer with experience in transitioning between different roles and industries. I have a very extensive experience in active B2B and B2C sales.
+- 🔭 I'm an Junior Python Developer with experience in transitioning between different roles and industries.  
+      I have a very extensive experience in active B2B and B2C sales.
 - 🌱 I'm currently learning Python and its features.
 - 👯 I'm looking for interesting prospective projects.
 - 🤔 I'm looking for a data analytics mentor.
