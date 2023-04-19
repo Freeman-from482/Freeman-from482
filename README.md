@@ -40,5 +40,5 @@ Waiting...
 - 👯 I'm looking for interesting prospective projects.
 - 🤔 I'm looking for a data analytics mentor.
 - 💬 Ask me about active sales and business intelligence.
-- ⚡ Curiosity: Backend, data analysis, artificial intelligence, computer vision, and automation of routine processes.
+- ⚡ Curiosity: Backend, data analysis, artificial intelligence, computer vision, biomechatronics, automation of routine processes.
 -->
